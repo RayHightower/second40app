@@ -1,17 +1,17 @@
 development:
   adapter: postgresql
-  database: first40app_dev
+  database: second40app_dev
   username: rth
   password: 
 
 test:
   adapter: postgresql
-  database: first40app_test
+  database: second40app_dev
   username: rth
   password: 
 
 production:
   adapter: postgresql
-  database: demo_app_live
+  database: second40app_dev
   username: rth
   password: 
